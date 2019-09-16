@@ -1,0 +1,79 @@
+body {
+  background-color: turquoise;
+  margin: 0;
+  text-align: center;
+  font-family: "Courier", Arial, sans-serif;
+  color: black;
+}
+
+.top {
+  background-color: #3c415e;
+  position: relative;
+  padding: 10px;
+  margin: 0;
+}
+
+h1 {
+  margin: 1.25rem auto;
+  color: turquoise;
+}
+
+h2 {
+  text-align: center;
+  color: grey;
+  position: relative;
+}
+
+p {
+  color: grey;
+  padding: 0 20px;
+}
+
+.middle-container {
+  background-color: #dfe2e2;
+  margin: 0;
+  padding: 5%;
+}
+
+.bottom-container {
+  background-color: #738598;
+  margin: 0;
+  padding: 3%;
+}
+
+img {
+  width: 20%;
+}
+
+.me {
+  transform: rotate(270deg);
+  margin: 5% 5% 7.5% 5%;
+  width: 35%;
+  height: 35%;
+  border-radius: 25%;
+}
+
+.bcloud {
+  position: absolute;
+  left: 50%;
+  opacity: 0.5;
+}
+
+.tcloud {
+  position: absolute;
+  right: 55%;
+  opacity: 0.7;
+}
+
+.mountain {
+  width: 30%;
+}
+
+.btn {
+  color: inherit;
+}
+
+.footer-link {
+  font-family: "Courier", Arial, serif;
+  color: inherit;
+}
