@@ -48,8 +48,8 @@ img {
 .me {
   transform: rotate(270deg);
   margin: 5% 5% 7.5% 5%;
-  width: 35%;
-  height: 35%;
+  width: 20%;
+  height: 20%;
   border-radius: 25%;
 }
 
